@@ -1,0 +1,92 @@
+C:\ABML\bin\Debug\ABML.exe
+C:\ABML\obj\Debug\ResolveAssemblyReference.cache
+C:\ABML\obj\Debug\ABML.vbproj.ResolveComReference.cache
+C:\ABML\obj\Debug\ABML.Form1.resources
+C:\ABML\obj\Debug\ABML.frmABMImport.resources
+C:\ABML\obj\Debug\ABML.frmImportDelete.resources
+C:\ABML\obj\Debug\ABML.frmMail.resources
+C:\ABML\obj\Debug\ABML.frmMain.resources
+C:\ABML\obj\Debug\ABML.frmMSMQ.resources
+C:\ABML\obj\Debug\ABML.frmQuickView.resources
+C:\ABML\obj\Debug\ABML.frmSearch.resources
+C:\ABML\obj\Debug\ABML.frmSendMail.resources
+C:\ABML\obj\Debug\ABML.Resources.resources
+C:\ABML\obj\Debug\ABML.frmAbmReport.resources
+C:\ABML\obj\Debug\ABML.frmErrABMReport.resources
+C:\ABML\obj\Debug\ABML.vbproj.GenerateResource.Cache
+C:\ABML\obj\Debug\ABML.exe
+C:\ABML\obj\Debug\ABML.xml
+C:\ABML\obj\Debug\ABML.pdb
+C:\ABML\bin\Debug\ABML.pdb
+C:\ABML\bin\Debug\ABML.xml
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.exe
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.xml
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.pdb
+C:\Documents and Settings\emp10050\Desktop\ABML\bin\Debug\ABML.exe
+C:\Documents and Settings\emp10050\Desktop\ABML\bin\Debug\ABML.pdb
+C:\Documents and Settings\emp10050\Desktop\ABML\bin\Debug\ABML.xml
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.vbproj.ResolveComReference.cache
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.Form1.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmABMImport.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmImportDelete.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmMail.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmMain.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmMSMQ.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmQuickView.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmSearch.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmSendMail.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.Resources.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmAbmReport.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmErrABMReport.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.vbproj.GenerateResource.Cache
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmTraining.resources
+C:\Documents and Settings\emp10050\Desktop\ABML\obj\Debug\ABML.frmUrlImport.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.exe
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.xml
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.pdb
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\bin\Debug\ABML.exe
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\bin\Debug\ABML.pdb
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\bin\Debug\ABML.xml
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.vbproj.ResolveComReference.cache
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.Form1.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmABMImport.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmUrlImport.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmImportDelete.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmMail.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmMain.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmMSMQ.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmQuickView.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmSearch.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmSendMail.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmTraining.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.Resources.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmAbmReport.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmErrABMReport.resources
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.vbproj.GenerateResource.Cache
+C:\Documents and Settings\emp10050\Desktop\AML MAIL\ABML\obj\Debug\ABML.frmImportReport.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.exe
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.xml
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.pdb
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\bin\Debug\ABML.exe
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\bin\Debug\ABML.pdb
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\bin\Debug\ABML.xml
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.vbproj.ResolveComReference.cache
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.Form1.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmABMImport.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmUrlImport.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmImportDelete.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmMail.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmMain.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmMSMQ.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmQuickView.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmSearch.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmSendMail.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmImport.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.Resources.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmAbmReport.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmErrABMReport.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.frmImportReport.resources
+C:\Documents and Settings\emp10050\Desktop\Greetings\ABML\obj\Debug\ABML.vbproj.GenerateResource.Cache

@@ -1,0 +1,193 @@
+D:\Greetings\ABML\obj\Debug\ABML.vbproj.ResolveComReference.cache
+D:\Greetings\ABML\obj\Debug\ABML.xml
+D:\Greetings\ABML\obj\Debug\ABML.pdb
+D:\Greetings\ABML\bin\Debug\ABML.exe
+D:\Greetings\ABML\bin\Debug\ABML.pdb
+D:\Greetings\ABML\bin\Debug\ABML.xml
+D:\Greetings\ABML\obj\Debug\ResolveAssemblyReference.cache
+D:\Greetings\ABML\obj\Debug\ABML.Form1.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmABMImport.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmUrlImport.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmImportDelete.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmMail.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmMain.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmMSMQ.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmQuickView.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmSearch.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmSendMail.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmImport.resources
+D:\Greetings\ABML\obj\Debug\ABML.Resources.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmAbmReport.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmErrABMReport.resources
+D:\Greetings\ABML\obj\Debug\ABML.frmImportReport.resources
+D:\Greetings\ABML\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Greetings\ABML\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Greetings\ABML\obj\Debug\ABML.exe
+D:\Greetings\ABML\bin\Debug\office.dll
+D:\Greetings\ABML\bin\Debug\office.xml
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.vbproj.ResolveComReference.cache
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.exe
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.xml
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.pdb
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\bin\Debug\ABML.exe
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\bin\Debug\ABML.pdb
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\bin\Debug\ABML.xml
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\bin\Debug\office.dll
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\bin\Debug\office.xml
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.Form1.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmABMImport.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmUrlImport.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmImportDelete.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmMail.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmMain.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmMSMQ.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmQuickView.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmSearch.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmSendMail.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmImport.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.Resources.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmAbmReport.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmErrABMReport.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\ABML.frmImportReport.resources
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\192.168.0.124\Share\Maruthi\EMP10050 -Application Backup\Application\STA-Mail\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\bin\Debug\ABML.exe
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\bin\Debug\ABML.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\bin\Debug\ABML.xml
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\bin\Debug\office.dll
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\bin\Debug\office.xml
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.vbprojResolveAssemblyReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.Form1.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmABMImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmServerConfiguration.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmUrlImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmImportDelete.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmMail.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmMain.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmMSMQ.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmQuickView.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmSearch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmSendMail.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.Resources.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmAbmReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmErrABMReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.frmImportReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.vbproj.GenerateResource.Cache
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.exe
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.xml
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail\obj\Debug\ABML.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.exe
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.xml
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\ABML.exe
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\ABML.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\ABML.xml
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\office.dll
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\office.xml
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.vbprojResolveAssemblyReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.Form1.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmABMImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmServerConfiguration.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmUrlImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmImportDelete.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmMail.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmMain.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmMSMQ.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmQuickView.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmSearch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmSendMail.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.Resources.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmAbmReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmErrABMReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmImportReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.exe
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.xml
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.pdb
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\ABML.exe
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\ABML.pdb
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\ABML.xml
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\office.dll
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\bin\Debug\office.xml
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.Form1.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmABMImport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmServerConfiguration.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmUrlImport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmImportDelete.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmMail.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmMain.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmMSMQ.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmQuickView.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmSearch.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmSendMail.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmImport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.Resources.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmAbmReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmErrABMReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.frmImportReport.resources
+E:\user\Vijayavel\vss\nmr\Vijay\GNSA\VBNET05\STA-Mail New\obj\Debug\ABML.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\bin\Debug\ABML.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\bin\Debug\ABML.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\bin\Debug\ABML.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\bin\Debug\office.dll
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\bin\Debug\office.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.Form1.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmABMImport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmServerConfiguration.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmUrlImport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmImportDelete.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmMail.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmMSMQ.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmSearch.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmSendMail.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmAbmReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmErrABMReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.frmImportReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.vbproj.GenerateResource.Cache
+D:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.exe
+D:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.xml
+D:\user\Vijayavel\Work At Home\vss\GNSA\STA-Mail New\obj\Debug\ABML.pdb
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.vbproj.ResolveComReference.cache
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.exe
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.xml
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.pdb
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\bin\Debug\ABML.exe
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\bin\Debug\ABML.pdb
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\bin\Debug\ABML.xml
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\bin\Debug\office.dll
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\bin\Debug\office.xml
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.vbprojResolveAssemblyReference.cache
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.Form1.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmABMImport.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmServerConfiguration.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmUrlImport.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmImportDelete.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmMail.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmMain.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmMSMQ.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmQuickView.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmSearch.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmSendMail.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmImport.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.Resources.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmAbmReport.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmErrABMReport.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.frmImportReport.resources
+D:\Murali\KT\Vijayvel\STA-Mail New\STA-Mail New\obj\Debug\ABML.vbproj.GenerateResource.Cache
